@@ -135,6 +135,13 @@ Percentage KPIs were calculated using **unfiltered total revenue** to avoid misl
 
 ---
 
+## Screenshots
+
+*(![Sales Performance](Images/Dashboard.png))*
+
+
+---
+
 ## 🎯 Key Insights
 
 - Promotions contribute a large share of revenue  
