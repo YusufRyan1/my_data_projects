@@ -137,7 +137,7 @@ Percentage KPIs were calculated using **unfiltered total revenue** to avoid misl
 
 ## Screenshots
 
-*(![Sales Performance](Images/Dashboard.png))*
+*![Sales Performance](Images/Dashboard.png)*
 
 
 ---
